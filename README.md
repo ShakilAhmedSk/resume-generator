@@ -1,4 +1,4 @@
-## What the app looks like
+# What the app looks like
 
 ![screenshot1](https://github.com/ShakilAhmedSk/resume-generator/blob/main/screenshots/resume-generator.gif)
 
